@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarSpiaggiaApiClient", "BarSpiaggiaApiClient\BarSpiaggiaApiClient.csproj", "{AEF298D8-93D6-4B85-95FC-812D861DB9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarSpiaggiaApiClient.Meteo", "BarSpiaggiaApiClient.Meteo\BarSpiaggiaApiClient.Meteo.csproj", "{906AC2C4-C76C-4095-8CA6-EC250EC21B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF298D8-93D6-4B85-95FC-812D861DB9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF298D8-93D6-4B85-95FC-812D861DB9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF298D8-93D6-4B85-95FC-812D861DB9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF298D8-93D6-4B85-95FC-812D861DB9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906AC2C4-C76C-4095-8CA6-EC250EC21B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906AC2C4-C76C-4095-8CA6-EC250EC21B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906AC2C4-C76C-4095-8CA6-EC250EC21B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906AC2C4-C76C-4095-8CA6-EC250EC21B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613BC799-6C39-48E7-8B24-920DCDDBEA27}
+	EndGlobalSection
+EndGlobal
