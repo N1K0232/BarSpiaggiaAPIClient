@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BarSpiaggiaApiClient.Data\BarSpiaggiaApiClient.Data.csproj" />
     <ProjectReference Include="..\BarSpiaggiaApiClient.Meteo\BarSpiaggiaApiClient.Meteo.csproj" />
   </ItemGroup>
 
